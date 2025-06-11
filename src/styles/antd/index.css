@@ -1,0 +1,36 @@
+/* ==========================
+   Global Ant Design Theme
+   ========================== */
+
+   :root {
+    --primary: #00D47F;
+    --primary-deep: #00c474;
+    --error: #ff6a55;
+    --success: #10b981;
+    --warning: #f59e0b;
+    --info: #C9B6FF;
+    --neutral: #ffffff;
+    --gray-900: #152A32;
+    --antd-primary-color: var(--primary);
+    --antd-primary-hover: var(--primary-deep);
+    --antd-error-color: var(--error);
+    --antd-success-color: var(--success);
+    --antd-warning-color: var(--warning);
+    --antd-info-color: var(--info);
+    --antd-bg: var(--neutral);
+    --antd-text-color: var(--gray-900);
+  }
+  
+  /* Dark mode support */
+  .dark {
+    --antd-primary-color: var(--primary);
+    --antd-primary-hover: var(--primary-deep);
+    --antd-error-color: var(--error);
+    --antd-success-color: var(--success);
+    --antd-warning-color: var(--warning);
+    --antd-info-color: var(--info);
+    --antd-bg: var(--gray-950);
+    --antd-text-color: var(--gray-100);
+  }
+  
+  

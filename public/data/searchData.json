@@ -1,0 +1,88 @@
+{
+  "categories": {
+    "explore": {
+      "name": "Explore",
+      "cssClass": "bg-sky-100 text-sky-800 border-sky-300",
+      "terms": [
+        "Plant-based snacks",
+        "Gluten-free bread",
+        "Ready-to-drink coffee",
+        "High-protein breakfast",
+        "Functional beverages",
+        "Keto desserts",
+        "Plant-based meat alternatives",
+        "Sustainable food packaging",
+        "Dairy-free desserts",
+        "Fermented foods"
+      ]
+    },
+    "analyze": {
+      "name": "Analyze",
+      "cssClass": "bg-green-100 text-green-800 border-green-300",
+      "terms": [
+        "Britannia Good Day",
+        "Cadbury Dairy Milk Silk",
+        "Nestle Maggi Noodles",
+        "Amul Butter",
+        "Parle-G Biscuits",
+        "ITC Sunfeast",
+        "Mother Dairy",
+        "Haldiram's",
+        "MTR Foods",
+        "Paper Boat Drinks"
+      ]
+    },
+    "develop": {
+      "name": "Develop",
+      "cssClass": "bg-orange-100 text-orange-800 border-orange-300",
+      "terms": [
+        "Jackfruit",
+        "Millet flour",
+        "Ragi",
+        "Pea protein isolate",
+        "Stevia extract",
+        "Moringa powder",
+        "Quinoa",
+        "Amaranth",
+        "Ashwagandha",
+        "Coconut sugar"
+      ]
+    },
+    "find": {
+      "name": "Find",
+      "cssClass": "bg-indigo-100 text-indigo-800 border-indigo-300",
+      "terms": [
+        "Sustainable packaging",
+        "Low sugar alternatives",
+        "Clean label ingredients",
+        "Products for diabetics",
+        "Locally sourced ingredients",
+        "Gluten-free certification",
+        "Vegan labeling",
+        "Organic suppliers",
+        "Food tech startups",
+        "Distribution networks"
+      ]
+    },
+    "surprise": {
+      "name": "Surprise Me",
+      "cssClass": "bg-pink-100 text-pink-800 border-pink-300",
+      "terms": [
+        "Show me something innovative!",
+        "What's trending now?",
+        "Suggest a unique product",
+        "Random food innovation",
+        "Next big thing in food"
+      ]
+    }
+  },
+  "trending": [
+    "Low GI Snacks",
+    "Protein-Enhanced Tea",
+    "Ready-to-Mix Millet Drink",
+    "Upcycled Ingredients",
+    "Plant-based Dairy",
+    "Immunity Boosting Foods",
+    "Gut Health Products"
+  ]
+}

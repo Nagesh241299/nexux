@@ -1,0 +1,1805 @@
+{
+    "foxtail-millet-noodles": {
+      "productTitle": "Foxtail Millet Noodles",
+      "sectionTitle": "Market Intelligence Report for India CPG Sector",
+      "keyInsights": [
+        {
+          "icon": "📈",
+          "value": "~19%?",
+          "label": "Market Growth (Healthy Segment)"
+        },
+        {
+          "icon": "🥣",
+          "value": "Blends",
+          "label": "Common Formulation (Millet+Wheat)"
+        },
+        {
+          "icon": "❓",
+          "value": "Variable",
+          "label": "Nutrition (esp. Fiber)"
+        },
+        {
+          "icon": "❤️",
+          "value": "Low-Mod",
+          "label": "Potential Glycemic Index"
+        }
+      ],
+      "marketSnapshot": {
+        "title": "Market Snapshot: Foxtail Millet Noodles",
+        "sourceInfo": "Industry Analysis Report",
+        "relatedTasks": ["ms-01", "ms-02"],
+        "sections": [
+          {
+            "type": "paragraph",
+            "text": "High-level overview based on the provided analysis. Click stats or 'Learn More' links to dive deeper."
+          },
+          
+          {
+            "type": "infoBlocks",
+            "blocks": [
+              {
+                "title": "Core Attributes",
+                "items": [
+                  "Ancient, drought-resistant C4 grass",
+                  "Adaptable to diverse conditions",
+                  "Historically significant grain"
+                ],
+                "style": "regular"
+              },
+              {
+                "title": "Market Position",
+                "items": [
+                  "Targets health-conscious segment",
+                  "Often higher price point",
+                  "Dominated by smaller/niche brands"
+                ],
+                "style": "regular"
+              },
+              {
+                "title": "Key Considerations",
+                "items": [
+                  "Gluten content often present (blends)",
+                  "Texture can be challenging",
+                  "Nutritional variability across brands"
+                ],
+                "style": "warning"
+              }
+            ]
+          }
+        ]
+      },
+      "researchSteps": [
+        {
+          "key": "view-millet-info",
+          "label": "Understand Foxtail Millet",
+          "icon": "🌾",
+          "subtopics": [
+            {
+              "key": "botanical-background",
+              "label": "Definition & Botany",
+              "icon": "🔬",
+              "content": {
+                "title": "Botanical Background of Foxtail Millet",
+                "sourceInfo": "Botanical Research Database",
+                "relatedTasks": ["tb-01", "tb-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Foxtail millet (Setaria italica) is a member of the Poaceae family, one of the oldest cultivated cereal crops. It's known for its small, fox-tail shaped panicles containing small seeds. This ancient grain has been cultivated for thousands of years and continues to hold significance in various traditional food systems, particularly in Asia."
+                  },
+                  {
+                    "type": "list",
+                    "title": "Key Botanical Features:",
+                    "items": [
+                      "Indigenous to Eastern Asia with archaeological evidence dating back to 5000 BCE",
+                      "Small-seeded cereal grain measuring 2-3mm in length",
+                      "C4 photosynthesis pathway making it drought and heat tolerant",
+                      "Self-pollinating with shallow root system",
+                      "Short growth cycle (60-90 days)"
+                    ]
+                  },
+                  {
+                    "type": "stats",
+                    "title": "Nutritional Composition (per 100g, raw)",
+                    "data": [
+                      { "value": "5-8%", "label": "Protein Content" },
+                      { "value": "1-3%", "label": "Fat Content" },
+                      { "value": "60-70%", "label": "Carbohydrates" },
+                      { "value": "8-15%", "label": "Dietary Fiber" },
+                      { "value": "High", "label": "Antioxidant Capacity" }
+                    ]
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "radar",
+                    "title": "Foxtail Millet Nutritional Profile vs Other Grains",
+                    "data": {
+                      "labels": ["Protein", "Fiber", "Iron", "Calcium", "Antioxidants"],
+                      "datasets": [
+                        {
+                          "label": "Foxtail Millet",
+                          "data": [11, 8, 8, 6, 9]
+                        },
+                        {
+                          "label": "Rice",
+                          "data": [7, 4, 3, 2, 4]
+                        },
+                        {
+                          "label": "Wheat",
+                          "data": [10, 7, 5, 3, 6]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "key": "historical-significance",
+              "label": "History & Domestication",
+              "icon": "📜",
+              "content": {
+                "title": "History & Domestication of Foxtail Millet",
+                "sourceInfo": "Historical Cereal Grains Database",
+                "relatedTasks": ["th-01", "th-03"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Foxtail millet is one of the world's oldest domesticated crops, with its cultivation dating back over 8,000 years in China. Archaeological evidence suggests it was a staple crop in ancient Chinese civilizations before rice became widely cultivated. In India, foxtail millet has been part of traditional agricultural systems for centuries, especially in arid and semi-arid regions where other crops struggle to thrive."
+                  },
+                  {
+                    "type": "timeline",
+                    "title": "Historical Evolution of Foxtail Millet",
+                    "events": [
+                      {
+                        "date": "8000 BCE",
+                        "event": "Earliest evidence of domestication in China"
+                      },
+                      {
+                        "date": "5000 BCE",
+                        "event": "Widespread cultivation across Asia"
+                      },
+                      {
+                        "date": "3000 BCE",
+                        "event": "Introduction to Indian subcontinent"
+                      },
+                      {
+                        "date": "1500 CE",
+                        "event": "Decline in popularity with rise of rice and wheat"
+                      },
+                      {
+                        "date": "2010 CE",
+                        "event": "Resurgence as health food in modern markets"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "In India, foxtail millet is traditionally known as 'kangni' or 'kakum' and has been a staple food in tribal communities across central and southern India. Its cultural significance extends beyond nutrition, featuring in various traditional ceremonies and rituals, particularly in rural agricultural communities."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "cultivation-adaptability",
+              "label": "Cultivation & Adaptability",
+              "icon": "🌱",
+              "content": {
+                "title": "Cultivation & Adaptability of Foxtail Millet",
+                "sourceInfo": "Agricultural Adaptation Studies",
+                "relatedTasks": ["tc-01", "tc-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Highly adaptable crop that grows in diverse soils (pH 5.5-7), semi-arid conditions (needs 1/3 less water than corn), and tolerates salinity and high altitude (up to 2000m). It's fast-growing with a cycle of 60-120 days but is sensitive to frost and has shallow roots vulnerable to prolonged drought. These characteristics make it particularly suitable for cultivation in India's diverse agricultural landscapes."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "bar",
+                    "title": "Foxtail Millet Production in Indian States (Est. 2024)",
+                    "data": {
+                      "labels": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Maharashtra", "Uttarakhand"],
+                      "datasets": [
+                        {
+                          "label": "Production (000 tonnes)",
+                          "data": [120, 85, 73, 45, 30]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Key Cultivation Advantages in Indian Context:",
+                    "items": [
+                      "Drought resistance makes it suitable for rain-fed agriculture in semi-arid regions",
+                      "Short growing season allows double cropping potential",
+                      "Low input requirement aligns with small-holder farming capabilities",
+                      "Adaptability to marginal lands where major cereals struggle",
+                      "Climate resilience positions it well for sustainable agriculture initiatives"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "key": "policy-support",
+              "label": "Policy Support & Initiatives",
+              "icon": "📋",
+              "content": {
+                "title": "Government Support for Millet Cultivation",
+                "sourceInfo": "Agricultural Policy Analysis",
+                "relatedTasks": ["ps-01", "ps-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "The Indian government has actively promoted millet cultivation through various initiatives, recognizing its nutritional value and climate resilience. The International Year of Millets 2023 significantly boosted awareness and policy support for millet crops, including foxtail millet, with ongoing momentum continuing into 2025."
+                  },
+                  {
+                    "type": "list",
+                    "title": "Key Government Initiatives:",
+                    "items": [
+                      "National Food Security Mission - Nutri Cereals",
+                      "Millet Mission in various states (Karnataka, Odisha, etc.)",
+                      "Inclusion in public distribution system in select states",
+                      "Research funding through ICAR and agricultural universities",
+                      "Export promotion through dedicated trade facilitation"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "These policy measures have created a favorable environment for innovation in millet-based products, including foxtail millet noodles, with subsidies and incentives available across the value chain from farm to fork."
+                  }
+                ]
+              }
+            }
+          ],
+          "overview": {
+            "title": "Understand Foxtail Millet",
+            "sourceInfo": "Foxtail Millet Analysis PDF",
+            "relatedTasks": ["to-01", "to-03"],
+            "sections": [
+              {
+                "type": "paragraph",
+                "text": "Foxtail millet is one of the world's oldest cultivated crops, with significant nutritional benefits and growing relevance in the health food market. Understanding its characteristics is crucial for product development in the noodle segment, where it offers potential for differentiation based on nutritional profile and sustainability credentials."
+              },
+              {
+                "type": "chart",
+                "chartType": "bubble",
+                "title": "Positioning of Different Millets in Indian Market",
+                "data": {
+                  "datasets": [
+                    {
+                      "label": "Millet Types",
+                      "data": [
+                        { "x": 8, "y": 7, "r": 15, "label": "Foxtail Millet" },
+                        { "x": 9, "y": 6, "r": 20, "label": "Pearl Millet" },
+                        { "x": 7, "y": 9, "r": 18, "label": "Finger Millet" },
+                        { "x": 6, "y": 5, "r": 12, "label": "Kodo Millet" },
+                        { "x": 5, "y": 8, "r": 10, "label": "Little Millet" }
+                      ]
+                    }
+                  ]
+                },
+                "axisLabels": {
+                  "x": "Nutritional Value (1-10)",
+                  "y": "Market Awareness (1-10)",
+                  "r": "Production Volume"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "key": "view-production",
+          "label": "Analyze Noodle Production",
+          "icon": "🏭",
+          "subtopics": [
+            {
+              "key": "production-process",
+              "label": "Typical Process",
+              "icon": "⚙️",
+              "content": {
+                "title": "Noodle Production Process",
+                "sourceInfo": "Food Processing Technology Journal",
+                "relatedTasks": ["pp-01", "pp-03"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "The production of millet noodles involves several specialized steps to transform raw millet into quality noodle products. General process: Mix flours (millet/wheat blend common) + water + salt (+ binders/oil) -> Knead -> Rest -> Sheet -> Cut -> Cook (Steam/Boil) -> Dry (Sun-drying often marketed vs. frying) -> Package (often with tastemaker). The process requires modifications from traditional wheat-based noodle production to accommodate millet's different properties."
+                  },
+                  {
+                    "type": "flowchart",
+                    "title": "Foxtail Millet Noodle Production Process",
+                    "steps": [
+                      {
+                        "id": "step1",
+                        "label": "Raw Material Preparation",
+                        "details": "Milling foxtail millet, blending with other flours"
+                      },
+                      {
+                        "id": "step2",
+                        "label": "Dough Formation",
+                        "details": "Mixing with water, salt, binders; kneading"
+                      },
+                      {
+                        "id": "step3",
+                        "label": "Resting",
+                        "details": "Allow dough to hydrate (typically 30-60 minutes)"
+                      },
+                      {
+                        "id": "step4",
+                        "label": "Sheeting",
+                        "details": "Rolling into thin sheets using rollers"
+                      },
+                      {
+                        "id": "step5",
+                        "label": "Cutting",
+                        "details": "Slicing into noodle strands"
+                      },
+                      {
+                        "id": "step6",
+                        "label": "Pre-cooking",
+                        "details": "Steaming/boiling briefly"
+                      },
+                      {
+                        "id": "step7",
+                        "label": "Drying",
+                        "details": "Sun-drying or controlled air drying"
+                      },
+                      {
+                        "id": "step8",
+                        "label": "Packaging",
+                        "details": "With or without tastemaker/seasoning"
+                      }
+                    ],
+                    "connections": [
+                      { "from": "step1", "to": "step2" },
+                      { "from": "step2", "to": "step3" },
+                      { "from": "step3", "to": "step4" },
+                      { "from": "step4", "to": "step5" },
+                      { "from": "step5", "to": "step6" },
+                      { "from": "step6", "to": "step7" },
+                      { "from": "step7", "to": "step8" }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The absence of gluten in millet presents technical challenges in noodle formation, which manufacturers address through blending with wheat flour or using binders. Products marketed as 'healthy alternatives' often emphasize their sun-drying process as opposed to deep-frying used in conventional instant noodles."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "common-ingredients",
+              "label": "Common Ingredients",
+              "icon": "🧂",
+              "content": {
+                "title": "Common Ingredients in Millet Noodles",
+                "sourceInfo": "Food Formulation Database",
+                "relatedTasks": ["ci-01", "ci-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Millet noodles typically contain a blend of millet flour and other ingredients to achieve optimal texture and flavor. The exact formulation varies significantly between manufacturers, with some prioritizing nutritional profile while others focus on textural qualities and shelf stability."
+                  },
+                  {
+                    "type": "list",
+                    "title": "Core Components:",
+                    "items": [
+                      "Flour: Typically a blend of millet and wheat flours",
+                      "Water: Essential for hydration and dough formation",
+                      "Salt: Included in dough for flavor enhancement",
+                      "Binders: Guar Gum (INS 412) common to improve texture/binding without gluten",
+                      "Oil: Sometimes added to dough (e.g., groundnut, sesame); also recommended during boiling",
+                      "Tastemaker: Separate sachet with spices, salt, sometimes sugar, acidity regulators"
+                    ]
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "pie",
+                    "title": "Typical Ingredient Composition in Market-Leading Products",
+                    "data": {
+                      "labels": ["Foxtail Millet Flour", "Wheat Flour", "Water", "Salt & Seasonings", "Binders/Additives", "Oils"],
+                      "datasets": [
+                        {
+                          "data": [35, 25, 30, 5, 3, 2],
+                          "backgroundColor": ["#FFD700", "#CD853F", "#1E90FF", "#FFFFFF", "#9ACD32", "#FF8C00"]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "table",
+                    "title": "Common Additives in Commercial Products",
+                    "headers": ["Additive", "Function", "E-Code", "Natural/Synthetic"],
+                    "rows": [
+                      ["Guar Gum", "Binding, texture improvement", "E412", "Natural"],
+                      ["Xanthan Gum", "Stability, texture", "E415", "Natural (fermentation)"],
+                      ["Citric Acid", "pH control, preservative", "E330", "Natural"],
+                      ["Sodium Carbonate", "Alkaline agent for texture", "E500", "Synthetic"],
+                      ["Potassium Carbonate", "Alkaline agent for texture", "E501", "Synthetic"]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "key": "ingredient-variations",
+              "label": "Flour Base Variations",
+              "icon": "🌾",
+              "content": {
+                "title": "Flour Base Variations in Millet Noodles",
+                "sourceInfo": "Product Formulation Research",
+                "relatedTasks": ["iv-01", "iv-03"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Most products labeled 'Foxtail Millet Noodles' are actually blends of foxtail millet flour and wheat flour (whole or refined). Ratios vary significantly (e.g., 30% millet/60% wheat up to 50/40 studied). Some use multi-millet blends. Pure millet / Gluten-Free versions are niche and must be explicitly labeled (e.g., 'Zero Wheat'). This means consumers cannot assume gluten-free status from the name alone."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "horizontalBar",
+                    "title": "Millet Content in Commercial Products (2025)",
+                    "data": {
+                      "labels": ["Premium Brand A", "Health Brand B", "Mass Market C", "Organic Brand D", "Traditional Brand E"],
+                      "datasets": [
+                        {
+                          "label": "Foxtail Millet %",
+                          "data": [50, 40, 25, 75, 30],
+                          "backgroundColor": "#FFD700"
+                        },
+                        {
+                          "label": "Other Flours %",
+                          "data": [50, 60, 75, 25, 70],
+                          "backgroundColor": "#CD853F"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Common Flour Combinations:",
+                    "items": [
+                      "Foxtail Millet + Wheat (most common)",
+                      "Foxtail Millet + Rice Flour (gluten-free options)",
+                      "Multi-Millet Blend (foxtail + pearl + finger millets)",
+                      "Foxtail Millet + Pulses (for protein enhancement)",
+                      "Foxtail Millet + Pseudocereals (quinoa, amaranth)"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "key": "marketing-claims",
+              "label": "Common Marketing Claims",
+              "icon": "🏷️",
+              "content": {
+                "title": "Marketing Claims for Millet Noodles",
+                "sourceInfo": "Market Positioning Analysis",
+                "relatedTasks": ["mc-01", "mc-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Millet noodle products typically position themselves as healthier alternatives to conventional instant noodles through specific marketing claims. This positioning is crucial for market differentiation in the competitive packaged food space."
+                  },
+                  {
+                    "type": "list",
+                    "title": "Common Negative Claims (What's NOT included):",
+                    "items": [
+                      "No Maida (Refined Wheat Flour)",
+                      "No MSG",
+                      "No Preservatives",
+                      "No Artificial Colors or Flavors",
+                      "Not Fried / Sun-Dried"
+                    ]
+                  },
+                  {
+                    "type": "list",
+                    "title": "Common Positive Claims:",
+                    "items": [
+                      "High Protein",
+                      "Rich in Fiber",
+                      "Source of Essential Minerals",
+                      "Low Glycemic Index",
+                      "Ancient Grain Goodness",
+                      "Sustainable/Eco-friendly"
+                    ]
+                  },
+                  {
+                    "type": "wordcloud",
+                    "title": "Popular Marketing Terms on Packaging",
+                    "words": [
+                      {"text": "Ancient Grain", "weight": 100},
+                      {"text": "Nutritious", "weight": 95},
+                      {"text": "Healthy", "weight": 90},
+                      {"text": "Protein-Rich", "weight": 85},
+                      {"text": "High-Fiber", "weight": 80},
+                      {"text": "Gluten-Free", "weight": 75},
+                      {"text": "Traditional", "weight": 70},
+                      {"text": "Natural", "weight": 65},
+                      {"text": "No Preservatives", "weight": 60},
+                      {"text": "Sustainable", "weight": 55},
+                      {"text": "Artisanal", "weight": 50},
+                      {"text": "Low GI", "weight": 45},
+                      {"text": "Diabetic-Friendly", "weight": 40},
+                      {"text": "Non-GMO", "weight": 35},
+                      {"text": "Sun-Dried", "weight": 30}
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "overview": {
+            "title": "Analyze Noodle Production",
+            "sourceInfo": "Food Manufacturing Research",
+            "relatedTasks": ["np-01", "np-03"],
+            "sections": [
+              {
+                "type": "paragraph",
+                "text": "The production of millet noodles presents unique challenges and opportunities compared to traditional wheat-based noodles. Understanding the technical aspects of production is essential for developing a viable product. Current market offerings show considerable variation in formulation, processing methods, and quality, creating opportunities for differentiation through improved manufacturing processes."
+              },
+              {
+                "type": "chart",
+                "chartType": "radar",
+                "title": "Production Challenges: Foxtail Millet vs Wheat Noodles",
+                "data": {
+                  "labels": ["Dough Elasticity", "Cooking Stability", "Texture", "Color Stability", "Shelf Life", "Processing Ease"],
+                  "datasets": [
+                    {
+                      "label": "Wheat Noodles",
+                      "data": [9, 8, 8, 7, 8, 9]
+                    },
+                    {
+                      "label": "Pure Foxtail Millet",
+                      "data": [3, 4, 5, 6, 7, 4]
+                    },
+                    {
+                      "label": "Optimized Millet Blend",
+                      "data": [6, 7, 7, 7, 7, 7]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "key": "view-nutrition",
+          "label": "Evaluate Nutritional Profile",
+          "icon": "📊",
+          "subtopics": [
+            {
+              "key": "macronutrient-composition",
+              "label": "Macronutrients",
+              "icon": "💪",
+              "content": {
+                "title": "Macronutrient Composition of Millet Noodles",
+                "sourceInfo": "Nutritional Analysis Reports",
+                "relatedTasks": ["nm-01", "nm-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "The macronutrient profile of millet noodles varies significantly based on formulation and processing methods. This variability makes it challenging to make broad generalizations about nutritional content, as the percentage of actual millet in the product dramatically affects the final nutritional profile."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "bar",
+                    "title": "Macronutrient Comparison (per 100g dry)",
+                    "data": {
+                      "labels": ["Protein", "Carbohydrates", "Fat", "Fiber"],
+                      "datasets": [
+                        {
+                          "label": "Foxtail Millet Noodles (50% millet)",
+                          "data": [12, 70, 1, 6],
+                          "backgroundColor": "#FFD700"
+                        },
+                        {
+                          "label": "Wheat Noodles",
+                          "data": [10, 75, 1, 3],
+                          "backgroundColor": "#CD853F"
+                        },
+                        {
+                          "label": "Rice Noodles",
+                          "data": [7, 80, 0.5, 1.5],
+                          "backgroundColor": "#FFFFFF"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Macronutrients (per 100g dry, highly variable):",
+                    "items": [
+                      "Protein: 8-18.5g (Millet grain ~11-12.5%). Depends heavily on blend.",
+                      "Carbohydrates: 54-85g (Mostly complex).",
+                      "Fat: Generally low (0.4-1g), unless oil added in formulation. Trans fat usually claimed absent."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Premium brands typically feature higher millet content, resulting in better protein and fiber profiles, while mass-market products may contain lower percentages of millet flour, diluting the nutritional benefits of the grain."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "fiber-content",
+              "label": "Dietary Fiber",
+              "icon": "🌿",
+              "content": {
+                "title": "Dietary Fiber Content in Millet Noodles",
+                "sourceInfo": "Fiber Analysis Studies",
+                "relatedTasks": ["fc-01", "fc-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Dietary fiber content is a key nutritional consideration in millet noodles, though actual amounts can vary greatly between products. The high fiber content in foxtail millet (approximately 8g per 100g in the grain itself) can contribute to improved digestive health and better glycemic response compared to refined grain products."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "line",
+                    "title": "Fiber Content vs. Millet Percentage",
+                    "data": {
+                      "labels": [0, 20, 40, 60, 80, 100],
+                      "datasets": [
+                        {
+                          "label": "Fiber Content (g/100g)",
+                          "data": [1.5, 3, 4.5, 6, 7.5, 9],
+                          "borderColor": "#32CD32",
+                          "backgroundColor": "rgba(50, 205, 50, 0.2)"
+                        }
+                      ]
+                    },
+                    "axisLabels": {
+                      "x": "Millet Percentage in Formulation",
+                      "y": "Dietary Fiber (g/100g)"
+                    }
+                  },
+                  {
+                    "type": "stats",
+                    "title": "Dietary Fiber (per 100g dry, highly variable):",
+                    "data": [
+                      { "value": "1-8g+", "label": "Reported Range" },
+                      { "value": "~8g", "label": "Millet Grain Content" },
+                      { "value": "~3g", "label": "Average Wheat Noodles" },
+                      { "value": "~1.5g", "label": "Average Rice Noodles" }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Low reported fiber in some noodles suggests dilution of millet's benefit due to blending or refining. Check specific product labels for accurate information. The fiber composition includes both soluble and insoluble components, contributing to the health benefits associated with millet consumption."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "vitamin-mineral-profile",
+              "label": "Vitamins & Minerals",
+              "icon": "💎",
+              "content": {
+                "title": "Vitamin and Mineral Profile of Millet Noodles",
+                "sourceInfo": "Micronutrient Analysis Database",
+                "relatedTasks": ["vm-01", "vm-03"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Foxtail millet is naturally rich in several essential micronutrients, though processing and blending with other flours affect the final content in noodle products. The mineral profile is a particular strength, with significant levels of iron, calcium, and magnesium compared to refined grain alternatives."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "horizontalBar",
+                    "title": "Mineral Content Comparison (per 100g dry)",
+                    "data": {
+                      "labels": ["Iron", "Calcium", "Magnesium", "Zinc", "Phosphorus"],
+                      "datasets": [
+                        {
+                          "label": "Foxtail Millet Noodles",
+                          "data": [6, 60, 120, 2.5, 250],
+                          "backgroundColor": "#FFD700"
+                        },
+                        {
+                          "label": "Refined Wheat Noodles",
+                          "data": [2, 20, 40, 1, 100],
+                          "backgroundColor": "#CD853F"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Vitamins & Minerals (Potential):",
+                    "items": [
+                      "Vitamins: B Vitamins (Thiamin B1, Niacin B3, Folate B9), Vitamin E. (B12 claims likely fortification/unreliable).",
+                      "Minerals (Millet Grain): Good source of Iron (Fe), Calcium (Ca), Magnesium (Mg), Phosphorus (P), Potassium (K), Zinc (Zn). Low Sodium (Na).",
+                      "Minerals (Noodles): Iron (4-10mg reported), Calcium (40-80mg reported). Sodium often HIGH due to added salt/tastemaker (~1200mg example)."
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The sodium content deserves special attention, as the included tastemaker/seasoning packets can significantly increase sodium levels, potentially offsetting some of the health benefits. Products marketing 'low sodium' options typically modify the seasoning rather than the noodle base itself."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "nutritional-variability",
+              "label": "Variability Issue",
+              "icon": "❓",
+              "content": {
+                "title": "Nutritional Variability in Millet Noodle Products",
+                "sourceInfo": "Product Comparison Studies",
+                "relatedTasks": ["nv-01", "nv-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Reported values for protein, fiber, fat, minerals vary dramatically between brands. This is primarily due to different formulations (millet:wheat ratio, other ingredients). Broad generalizations are difficult; consumers MUST check individual product labels. The health benefits of millet grain may not fully translate if millet proportion is low in the final product."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "scatter",
+                    "title": "Nutritional Variability Across Market Products",
+                    "data": {
+                      "datasets": [
+                        {
+                          "label": "Market Products",
+                          "data": [
+                            {"x": 25, "y": 9.5, "r": 10, "label": "Brand A"},
+                            {"x": 35, "y": 12, "r": 12, "label": "Brand B"},
+                            {"x": 20, "y": 8, "r": 8, "label": "Brand C"},
+                            {"x": 50, "y": 15, "r": 15, "label": "Brand D"},
+                            {"x": 40, "y": 13, "r": 14, "label": "Brand E"},
+                            {"x": 30, "y": 11, "r": 11, "label": "Brand F"}
+                          ]
+                        }
+                      ]
+                    },
+                    "axisLabels": {
+                      "x": "Millet Content (%)",
+                      "y": "Protein Content (g/100g)",
+                      "r": "Fiber Content (relative)"
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Factors Contributing to Variability:",
+                    "items": [
+                      "Millet percentage in formulation (20-80% observed range)",
+                      "Quality and processing of millet flour used",
+                      "Other flour types in the blend",
+                      "Processing methods affecting nutrient retention",
+                      "Potential fortification practices",
+                      "Variance between laboratory testing methodologies"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "key": "comparison-wheat-rice",
+              "label": "Comparisons",
+              "icon": "🆚",
+              "content": {
+                "title": "Nutritional Comparison to Wheat and Rice Noodles",
+                "sourceInfo": "Comparative Nutrition Analysis",
+                "relatedTasks": ["nc-01", "nc-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "When comparing foxtail millet noodles to conventional alternatives, the nutritional advantages depend heavily on the product formulation. High-quality millet noodles offer several potential benefits over refined grain options, though they may not necessarily outperform whole grain wheat products in all aspects."
+                  },
+                  {
+                    "type": "table",
+                    "title": "Nutritional Comparison (per 100g, dry basis)",
+                    "headers": ["Nutrient", "Foxtail Millet Noodles (50% millet)", "Whole Wheat Noodles", "White Wheat Noodles", "Rice Noodles"],
+                    "rows": [
+                      ["Energy (kcal)", "350-380", "340-360", "350-370", "360-380"],
+                      ["Protein (g)", "11-14", "10-13", "8-10", "6-8"],
+                      ["Carbohydrates (g)", "65-75", "70-75", "75-80", "80-85"],
+                      ["Fat (g)", "0.8-1.5", "1-2", "0.5-1", "0.1-0.5"],
+                      ["Fiber (g)", "5-8", "6-10", "1-3", "0.5-1.5"],
+                      ["Iron (mg)", "4-8", "3-6", "1-3", "0.5-2"],
+                      ["Calcium (mg)", "40-80", "20-50", "15-30", "10-25"],
+                      ["Glycemic Index", "Medium", "Medium", "High", "High"]
+                    ]
+                  },
+                  {
+                    "type": "list",
+                    "title": "Comparison (vs. Refined Wheat / White Rice Noodles):",
+                    "items": [
+                      "Protein: Potentially higher (depends on blend vs. whole wheat).",
+                      "Fiber: Potentially higher (depends heavily on blend vs. whole wheat).",
+                      "Minerals: Likely richer profile than refined versions.",
+                      "Glycemic Index: Potentially lower (beneficial for blood sugar).",
+                      "Gluten: Millet is GF, but MOST noodles contain wheat/gluten. Rice noodles are GF."
+                    ]
+                  },
+                  {
+                    "type": "radar",
+                    "title": "Nutritional Profile Comparison",
+                    "data": {
+                      "labels": ["Protein", "Fiber", "Minerals", "Antioxidants", "Low GI", "Gluten-Free"],
+                      "datasets": [
+                        {
+                          "label": "Foxtail Millet Noodles",
+                          "data": [8, 9, 9, 8, 7, 3]
+                        },
+                        {
+                          "label": "Whole Wheat Noodles",
+                          "data": [8, 9, 7, 6, 6, 1]
+                        },
+                        {
+                          "label": "White Wheat Noodles",
+                          "data": [6, 3, 3, 2, 3, 1]
+                        },
+                        {
+                          "label": "Rice Noodles",
+                          "data": [4, 2, 2, 1, 3, 10]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "overview": {
+            "title": "Evaluate Nutritional Profile",
+            "sourceInfo": "Foxtail Millet Analysis PDF",
+            "relatedTasks": ["en-01", "en-02"],
+            "sections": [
+              {
+                "type": "paragraph",
+                "text": "The nutritional profile of foxtail millet noodles is a key selling point but varies significantly based on formulation. Products with higher millet content offer better protein, fiber, and micronutrient profiles compared to conventional alternatives. However, variability between products makes broad claims challenging, and consumers need to evaluate specific product labels for accurate information."
+              },
+              {
+                "type": "chart",
+                "chartType": "doughnut",
+                "title": "Nutritional Value Distribution",
+                "data": {
+                  "labels": ["Protein", "Complex Carbs", "Dietary Fiber", "Essential Minerals", "Antioxidants", "Other Nutrients"],
+                  "datasets": [
+                    {
+                      "data": [20, 40, 15, 12, 8, 5],
+                      "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0", "#9966FF", "#C9CBCF"]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "key": "view-market",
+          "label": "Market Landscape",
+          "icon": "🏪",
+          "subtopics": [
+            {
+              "key": "market-size-growth",
+              "label": "Size & Growth",
+              "icon": "📈",
+              "content": {
+                "title": "Market Size and Growth Trajectory",
+                "sourceInfo": "Market Research Reports",
+                "relatedTasks": ["ms-01", "ms-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "The foxtail millet noodles market in India represents a niche but rapidly growing segment within the broader healthy alternatives category of the packaged food industry. While precise market size data is limited due to the emerging nature of the category, industry estimates and growth patterns provide valuable context."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "line",
+                    "title": "Estimated Market Growth (2020-2025)",
+                    "data": {
+                      "labels": ["2020", "2021", "2022", "2023", "2024", "2025 (Proj.)"],
+                      "datasets": [
+                        {
+                          "label": "Market Size (₹ Crore)",
+                          "data": [15, 25, 45, 90, 150, 240],
+                          "borderColor": "#36A2EB",
+                          "backgroundColor": "rgba(54, 162, 235, 0.2)"
+                        },
+                        {
+                          "label": "YoY Growth (%)",
+                          "data": [null, 67, 80, 100, 67, 60],
+                          "borderColor": "#FF6384",
+                          "backgroundColor": "rgba(255, 99, 132, 0.2)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "stats",
+                    "title": "Key Market Indicators (2025)",
+                    "data": [
+                      { "value": "₹240 Crore", "label": "Estimated Market Size" },
+                      { "value": "60%", "label": "Projected Annual Growth" },
+                      { "value": "0.8%", "label": "Share of Total Noodle Market" },
+                      { "value": "12%", "label": "Share of Health Foods Noodle Segment" }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Growth drivers include increasing health consciousness, government promotion of millets, rising disposable incomes, and expansion of modern retail and e-commerce channels. The COVID-19 pandemic accelerated interest in immunity-boosting foods, benefiting the millet category overall."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "consumer-segments",
+              "label": "Consumer Analysis",
+              "icon": "👥",
+              "content": {
+                "title": "Consumer Segments and Behavior",
+                "sourceInfo": "Consumer Insights Research",
+                "relatedTasks": ["cs-01", "cs-03"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "The consumer base for foxtail millet noodles is diverse but shows distinct segmentation patterns based on health awareness, income levels, and geographical location. Urban markets dominate sales, with tier-1 cities accounting for approximately 60-65% of current consumption."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "pie",
+                    "title": "Primary Consumer Segments",
+                    "data": {
+                      "labels": ["Health-Conscious Urban Professionals", "Parents Seeking Healthy Options for Children", "Dietary Restricted Individuals", "Traditional/Cultural Consumers", "Others"],
+                      "datasets": [
+                        {
+                          "data": [40, 25, 20, 10, 5],
+                          "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0", "#9966FF"]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Key Consumer Insights:",
+                    "items": [
+                      "Primary purchasers are women aged 25-45, typically from middle to upper-income households",
+                      "Health benefits are the primary purchase driver (75% of consumers cite this)",
+                      "Taste and texture remain critical - 65% of first-time purchasers don't repeat if taste expectations aren't met",
+                      "Price sensitivity is moderate, with acceptable premium of 30-50% over regular noodles",
+                      "Highest adoption in metros: Bangalore, Mumbai, Delhi NCR, Hyderabad, and Chennai"
+                    ]
+                  },
+                  {
+                    "type": "persona",
+                    "title": "Primary Consumer Persona",
+                    "data": {
+                      "name": "Priya Sharma",
+                      "age": "34",
+                      "occupation": "Marketing Executive",
+                      "location": "Bangalore",
+                      "income": "12 LPA",
+                      "education": "MBA",
+                      "behaviors": [
+                        "Health-conscious but time-constrained",
+                        "Regular shopper at premium supermarkets",
+                        "Researches nutritional information before purchase",
+                        "Willing to pay premium for perceived health benefits",
+                        "Seeks convenient yet nutritious options for family"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "key": "competitive-landscape",
+              "label": "Competitive Landscape",
+              "icon": "🏆",
+              "content": {
+                "title": "Competitive Landscape Analysis",
+                "sourceInfo": "Industry Competitive Analysis",
+                "relatedTasks": ["cl-01", "cl-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "The competitive landscape for foxtail millet noodles in India features a mix of specialized health food companies, traditional millet-focused brands, and mainstream players entering the segment with healthier alternatives. The market is still fragmented, with no single player holding dominant market share."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "horizontalBar",
+                    "title": "Estimated Market Share (2025)",
+                    "data": {
+                      "labels": ["Slurrp Farm", "Soulfull", "24 Mantra Organic", "Organic Tattva", "Patanjali", "True Elements", "Ancient Living", "Other Players"],
+                      "datasets": [
+                        {
+                          "label": "Market Share (%)",
+                          "data": [18, 15, 12, 10, 8, 7, 5, 25],
+                          "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0", "#9966FF", "#FF9F40", "#C9CBCF", "#FFCD56"]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "table",
+                    "title": "Key Player Analysis",
+                    "headers": ["Brand", "Positioning", "Price Point", "Distribution", "Key Differentiator"],
+                    "rows": [
+                      ["Slurrp Farm", "Premium, Child-focused", "₹90-120/pack", "E-commerce, Premium Retail", "Child nutrition focus, multiple millet blend"],
+                      ["Soulfull", "Mainstream Health", "₹75-90/pack", "General Trade, Modern Retail", "Ragi focus, affordable health positioning"],
+                      ["24 Mantra Organic", "Organic, Premium", "₹100-130/pack", "Organic Stores, E-commerce", "Certified organic ingredients, sustainability focus"],
+                      ["Organic Tattva", "Organic, Traditional", "₹95-120/pack", "Modern Retail, Own Stores", "Traditional recipes, authentic flavors"],
+                      ["Patanjali", "Ayurvedic, Mass Market", "₹50-70/pack", "Own Stores, General Trade", "Ayurvedic positioning, affordability"],
+                      ["True Elements", "Clean Label, Premium", "₹110-140/pack", "E-commerce, Premium Retail", "Clean label, transparency in sourcing"]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "There's a clear segmentation between premium and mass-market players, with price points and distribution strategies aligning with target consumer segments. Premium brands focus on higher millet content, organic certification, and specialized health claims, while mass-market players emphasize affordability and familiar taste profiles."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "distribution-channels",
+              "label": "Distribution Channels",
+              "icon": "🛒",
+              "content": {
+                "title": "Distribution Channel Analysis",
+                "sourceInfo": "Retail Distribution Research",
+                "relatedTasks": ["dc-01", "dc-03"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Distribution strategies for foxtail millet noodles are evolving rapidly, with significant channel differences compared to mainstream noodle products. E-commerce has played a crucial role in early-stage market development, allowing specialized products to reach niche health-conscious consumers."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "pie",
+                    "title": "Sales Channel Distribution (2025)",
+                    "data": {
+                      "labels": ["E-commerce", "Modern Retail", "Health Food Stores", "General Trade", "Direct-to-Consumer", "Institutional"],
+                      "datasets": [
+                        {
+                          "data": [35, 30, 15, 10, 7, 3],
+                          "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0", "#9966FF", "#FF9F40"]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Channel Performance Insights:",
+                    "items": [
+                      "E-commerce: Highest growth (85% YoY), dominated by Amazon, Flipkart, BigBasket, and brand D2C sites",
+                      "Modern Retail: Strong in premium segments, key chains include Nature's Basket, Spencer's, Foodhall, Reliance Fresh",
+                      "Health Food Stores: High conversion but limited scale, concentrated in urban areas",
+                      "General Trade: Emerging channel, currently limited to premium neighborhoods in metro cities",
+                      "Direct-to-Consumer: Growing rapidly, provides brands with customer data and higher margins"
+                    ]
+                  },
+                  {
+                    "type": "heatmap",
+                    "title": "Geographic Distribution of Sales",
+                    "regions": [
+                      {"name": "South India", "value": 45, "color": "#FF0000"},
+                      {"name": "West India", "value": 30, "color": "#FF6600"},
+                      {"name": "North India", "value": 20, "color": "#FFCC00"},
+                      {"name": "East India", "value": 5, "color": "#FFFF00"}
+                    ],
+                    "note": "Values represent percentage of total national sales"
+                  }
+                ]
+              }
+            },
+            {
+              "key": "pricing-strategies",
+              "label": "Pricing Analysis",
+              "icon": "💰",
+              "content": {
+                "title": "Pricing Strategies and Positioning",
+                "sourceInfo": "Pricing Analysis Research",
+                "relatedTasks": ["ps-01", "ps-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Pricing for foxtail millet noodles typically reflects a premium positioning relative to conventional noodle products, with key factors including ingredient quality, millet percentage, organic certification, and brand positioning. The premium ranges from 30% to over 100% compared to mainstream wheat-based instant noodles."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "bar",
+                    "title": "Price Comparison by Category (80g pack)",
+                    "data": {
+                      "labels": ["Standard Wheat Noodles", "Premium Wheat Noodles", "Rice Noodles", "Basic Millet Noodles", "Premium Millet Noodles", "Organic Millet Noodles"],
+                      "datasets": [
+                        {
+                          "label": "Retail Price (₹)",
+                          "data": [15, 35, 45, 60, 90, 120],
+                          "backgroundColor": ["#C9CBCF", "#9966FF", "#4BC0C0", "#FFCE56", "#36A2EB", "#FF6384"]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "table",
+                    "title": "Price per Gram Analysis",
+                    "headers": ["Product Type", "Avg. Price/Pack", "Pack Size", "Price/Gram", "Premium vs. Standard"],
+                    "rows": [
+                      ["Standard Wheat Noodles", "₹15", "70g", "₹0.21/g", "-"],
+                      ["Premium Wheat Noodles", "₹35", "70g", "₹0.50/g", "138%"],
+                      ["Basic Millet Noodles", "₹60", "80g", "₹0.75/g", "257%"],
+                      ["Premium Millet Noodles", "₹90", "80g", "₹1.13/g", "438%"],
+                      ["Organic Millet Noodles", "₹120", "80g", "₹1.50/g", "614%"]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Premium pricing is justified by brands through health benefits, quality ingredients, and specialized production processes. Interestingly, consumer willingness to pay this premium varies significantly by region and retail channel, with e-commerce consumers demonstrating lower price sensitivity compared to those shopping in physical retail."
+                  }
+                ]
+              }
+            }
+          ],
+          "overview": {
+            "title": "Market Landscape",
+            "sourceInfo": "Industry Analysis Reports",
+            "relatedTasks": ["ml-01", "ml-03"],
+            "sections": [
+              {
+                "type": "paragraph",
+                "text": "The foxtail millet noodles market in India represents a rapidly growing niche within the larger health foods segment, driven by increasing health consciousness, government promotion of millets, and changing consumer preferences. While still small in absolute terms compared to the mainstream noodle market, the category shows robust growth potential with a clear premium positioning and evolving distribution strategies focusing on urban, health-conscious consumers."
+              },
+              {
+                "type": "chart",
+                "chartType": "bubble",
+                "title": "Market Positioning Map",
+                "data": {
+                  "datasets": [
+                    {
+                      "label": "Brand Positioning",
+                      "data": [
+                        { "x": 8, "y": 9, "r": 18, "label": "Premium Organic" },
+                        { "x": 7, "y": 6, "r": 15, "label": "Mainstream Health" },
+                        { "x": 5, "y": 8, "r": 10, "label": "Traditional/Ayurvedic" },
+                        { "x": 4, "y": 4, "r": 25, "label": "Conventional Noodles" },
+                        { "x": 6, "y": 3, "r": 8, "label": "Budget Health" }
+                      ]
+                    }
+                  ]
+                },
+                "axisLabels": {
+                  "x": "Price Point (1-10)",
+                  "y": "Health Positioning (1-10)",
+                  "r": "Market Share"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "key": "view-challenges",
+          "label": "Challenges & Opportunities",
+          "icon": "⚖️",
+          "subtopics": [
+            {
+              "key": "product-challenges",
+              "label": "Product Development Challenges",
+              "icon": "🧪",
+              "content": {
+                "title": "Product Development Challenges",
+                "sourceInfo": "R&D Research Reports",
+                "relatedTasks": ["pc-01", "pc-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Developing successful foxtail millet noodle products presents several technical challenges that manufacturers must overcome to create products that meet consumer expectations for both health benefits and culinary experience."
+                  },
+                  {
+                    "type": "list",
+                    "title": "Key Technical Challenges:",
+                    "items": [
+                      "Texture Development: Lack of gluten makes it difficult to achieve the characteristic elasticity and chewiness of wheat noodles",
+                      "Cooking Stability: Higher tendency to become mushy when overcooked compared to wheat noodles",
+                      "Flavor Profile: Raw millet can have an earthy, slightly bitter aftertaste that requires masking",
+                      "Color Stability: Tendency to darken during processing and storage",
+                      "Shelf Life: Susceptibility to rancidity due to higher fat content in whole grain millet"
+                    ]
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "radar",
+                    "title": "Consumer Satisfaction with Product Attributes",
+                    "data": {
+                      "labels": ["Texture", "Taste", "Cooking Quality", "Appearance", "Shelf Life", "Health Perception"],
+                      "datasets": [
+                        {
+                          "label": "Current Market Products",
+                          "data": [6, 7, 6, 8, 7, 9]
+                        },
+                        {
+                          "label": "Consumer Expectations",
+                          "data": [8, 8, 8, 7, 8, 9]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The gap between consumer expectations and current product performance highlights opportunities for innovation, particularly in improving texture and cooking qualities without compromising nutritional benefits. Manufacturers are exploring various hydrocolloids, processing techniques, and ingredient combinations to address these challenges."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "consumer-education",
+              "label": "Consumer Education Needs",
+              "icon": "🎓",
+              "content": {
+                "title": "Consumer Education Challenges",
+                "sourceInfo": "Consumer Insight Studies",
+                "relatedTasks": ["ce-01", "ce-03"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Despite growing interest in millet-based products, significant knowledge gaps exist among consumers regarding foxtail millet, its nutritional benefits, and how to properly evaluate and prepare millet noodle products. These education needs represent both a challenge and an opportunity for market development."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "doughnut",
+                    "title": "Consumer Knowledge Assessment",
+                    "data": {
+                      "labels": ["High Knowledge", "Moderate Knowledge", "Limited Knowledge", "No Knowledge"],
+                      "datasets": [
+                        {
+                          "data": [15, 25, 40, 20],
+                          "backgroundColor": ["#4BC0C0", "#FFCE56", "#FF9F40", "#FF6384"]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Key Education Needs:",
+                    "items": [
+                      "Nutritional benefits of foxtail millet vs. other grains",
+                      "How to interpret product labels and evaluate millet content",
+                      "Proper cooking techniques to optimize texture and taste",
+                      "Understanding that 'millet noodles' often contain wheat/gluten",
+                      "Environmental and sustainability benefits of millet cultivation"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Brands that effectively address these knowledge gaps through packaging, digital content, and point-of-sale materials gain competitive advantage. Educational marketing that builds category understanding rather than just brand promotion may be particularly effective in this emerging market."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "supply-chain",
+              "label": "Supply Chain Considerations",
+              "icon": "🔄",
+              "content": {
+                "title": "Supply Chain Challenges and Opportunities",
+                "sourceInfo": "Agricultural Supply Chain Analysis",
+                "relatedTasks": ["sc-01", "sc-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "The supply chain for foxtail millet in India presents unique challenges and opportunities that directly impact product consistency, cost structure, and sustainability claims for foxtail millet noodle manufacturers."
+                  },
+                  {
+                    "type": "flowchart",
+                    "title": "Foxtail Millet Supply Chain",
+                    "steps": [
+                      {
+                        "id": "step1",
+                        "label": "Smallholder Farmers",
+                        "details": "Primarily in Karnataka, Tamil Nadu, Andhra Pradesh"
+                      },
+                      {
+                        "id": "step2",
+                        "label": "Aggregators/Collection Centers",
+                        "details": "Quality varies significantly by source"
+                      },
+                      {
+                        "id": "step3",
+                        "label": "Processing Units",
+                        "details": "De-hulling, cleaning, milling"
+                      },
+                      {
+                        "id": "step4",
+                        "label": "Flour Manufacturers",
+                        "details": "Specialized or multi-grain processors"
+                      },
+                      {
+                        "id": "step5",
+                        "label": "Noodle Manufacturers",
+                        "details": "Product formulation and production"
+                      },
+                      {
+                        "id": "step6",
+                        "label": "Distribution Network",
+                        "details": "Multiple channels to consumer"
+                      }
+                    ],
+                    "connections": [
+                      { "from": "step1", "to": "step2" },
+                      { "from": "step2", "to": "step3" },
+                      { "from": "step3", "to": "step4" },
+                      { "from": "step4", "to": "step5" },
+                      { "from": "step5", "to": "step6" }
+                    ]
+                  },
+                  {
+                    "type": "list",
+                    "title": "Key Supply Chain Challenges:",
+                    "items": [
+                      "Quality Inconsistency: Significant variation in grain quality by region and season",
+                      "Volume Fluctuations: Relatively small cultivation area creates supply volatility",
+                      "Processing Infrastructure: Limited specialized milling facilities for optimal quality",
+                      "Traceability: Difficulty in establishing farm-to-fork tracking systems",
+                      "Cost Pressure: Price volatility affects product margin structures"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Forward integration by leading brands through contract farming initiatives provides opportunities to stabilize supply, ensure quality, and strengthen sustainability and traceability claims, though these models are still in early development stages."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "regulatory-landscape",
+              "label": "Regulatory Considerations",
+              "icon": "📜",
+              "content": {
+                "title": "Regulatory Environment for Millet Noodles",
+                "sourceInfo": "Food Regulatory Analysis",
+                "relatedTasks": ["rl-01", "rl-03"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "The regulatory landscape for foxtail millet noodles in India encompasses several considerations that manufacturers must navigate, particularly around labeling, claims, additives, and quality standards. The FSSAI (Food Safety and Standards Authority of India) provides the primary regulatory framework."
+                  },
+                  {
+                    "type": "list",
+                    "title": "Key Regulatory Considerations:",
+                    "items": [
+                      "Composition Standards: Currently no specific standards for millet noodles; fall under general pasta/noodle regulations",
+                      "Labeling Requirements: Ingredients list, nutritional information, allergen warnings (especially for wheat/gluten)",
+                      "Claims Regulations: Health and nutrition claims must be substantiated and comply with FSSAI guidelines",
+                      "Additives: Permitted food additives governed by Food Safety and Standards Regulations",
+                      "Organic Certification: Products labeled 'organic' must comply with India's National Programme for Organic Production (NPOP) standards"
+                    ]
+                  },
+                  {
+                    "type": "table",
+                    "title": "Common Regulatory Issues",
+                    "headers": ["Regulatory Area", "Common Compliance Challenges", "Recommended Approach"],
+                    "rows": [
+                      ["Millet Content Claims", "No standard definition of 'millet noodles' regarding minimum content", "Clearly state percentage of millet flour on packaging"],
+                      ["Gluten-Free Claims", "Products labeled 'millet noodles' but containing wheat", "Explicit labeling about wheat/gluten content"],
+                      ["Nutrition Claims", "Unsubstantiated health benefit statements", "Ensure all claims are backed by scientific evidence"],
+                      ["Clean Label Claims", "Terms like 'natural', 'no additives' requiring substantiation", "Ensure full ingredient transparency"],
+                      ["Organic Certification", "Partial organic ingredient usage vs. full certification", "Clear distinction between 'made with organic ingredients' vs. 'certified organic'"]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Recent regulatory developments include FSSAI's increased focus on traditional/indigenous foods and potential development of specific standards for millet-based products, which may impact labeling and composition requirements in the near future."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "growth-opportunities",
+              "label": "Market Growth Opportunities",
+              "icon": "🚀",
+              "content": {
+                "title": "Growth Opportunities and Innovation Potential",
+                "sourceInfo": "Market Opportunity Analysis",
+                "relatedTasks": ["go-01", "go-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Despite the challenges, the foxtail millet noodles category presents significant growth opportunities driven by evolving consumer preferences, government support for millet cultivation, and increasing interest in nutritious convenience foods. Several strategic growth avenues exist for existing players and new entrants."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "horizontalBar",
+                    "title": "Growth Opportunity Assessment",
+                    "data": {
+                      "labels": ["Product Innovation", "New Consumer Segments", "Geographic Expansion", "Channel Development", "Value Chain Integration", "Partnership Ecosystem"],
+                      "datasets": [
+                        {
+                          "label": "Opportunity Score (1-10)",
+                          "data": [9, 8, 7.5, 8.5, 6, 7],
+                          "backgroundColor": "#36A2EB"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Key Innovation Opportunities:",
+                    "items": [
+                      "Gluten-Free Formulations: Develop viable 100% millet products without wheat",
+                      "Children's Products: Specialized flavors, shapes, and nutritional profiles for kids",
+                      "Ready-to-Eat: Shelf-stable, fully prepared millet noodle bowls/cups",
+                      "Flavor Innovations: Regional cuisine-inspired tastes beyond standard offerings",
+                      "Multi-Millet Blends: Combining foxtail with other nutritious millets",
+                      "Functional Additions: Incorporating proteins, superfoods, or targeted nutrients"
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The opportunity landscape extends beyond product development to include business model innovations such as direct farm sourcing programs, subscription models, and specialized distribution channels targeting institutional buyers like schools, corporate cafeterias, and healthcare facilities."
+                  }
+                ]
+              }
+            }
+          ],
+          "overview": {
+            "title": "Challenges & Opportunities",
+            "sourceInfo": "Strategic Analysis Reports",
+            "relatedTasks": ["co-01", "co-03"],
+            "sections": [
+              {
+                "type": "paragraph",
+                "text": "The foxtail millet noodles market in India represents a dynamic space with significant potential tempered by notable challenges. Technical hurdles in product development, supply chain complexities, consumer education needs, and evolving regulations create barriers to entry and scaling. However, these same challenges create strategic opportunities for companies with the capabilities to address them effectively. As the category continues to evolve, competitive advantage will likely accrue to players who can simultaneously deliver on taste expectations, nutritional benefits, and operational excellence."
+              },
+              {
+                "type": "chart",
+                "chartType": "quadrant",
+                "title": "Strategic Opportunity Assessment",
+                "quadrants": [
+                  {
+                    "name": "High Impact / Easy Implementation",
+                    "items": ["Improved packaging information", "Online consumer education", "Flavor innovation"]
+                  },
+                  {
+                    "name": "High Impact / Complex Implementation",
+                    "items": ["Gluten-free formulation", "Vertical supply chain integration", "Export market development"]
+                  },
+                  {
+                    "name": "Lower Impact / Easy Implementation",
+                    "items": ["Additional SKU sizes", "Promotional bundling", "Recipe inclusion"]
+                  },
+                  {
+                    "name": "Lower Impact / Complex Implementation",
+                    "items": ["Full organic certification", "Contract farming program", "Branded retail outlets"]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "key": "view-recommendations",
+          "label": "Strategic Recommendations",
+          "icon": "🎯",
+          "subtopics": [
+            {
+              "key": "product-development",
+              "label": "Product Strategy",
+              "icon": "🧠",
+              "content": {
+                "title": "Product Development Strategy",
+                "sourceInfo": "CPG Innovation Research",
+                "relatedTasks": ["pd-01", "pd-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Based on comprehensive market analysis, several strategic product development directions emerge for companies seeking to establish or strengthen their position in the foxtail millet noodles market. These recommendations address both current market gaps and anticipated future trends."
+                  },
+                  {
+                    "type": "list",
+                    "title": "Core Product Development Recommendations:",
+                    "items": [
+                      "Tiered Product Strategy: Develop good-better-best offerings with varying millet content percentages (30%, 50%, 70%+) to address different price points and consumer segments",
+                      "Specialized Formulations: Create dedicated products for specific dietary needs (gluten-free, protein-enhanced, low-sodium versions)",
+                      "Format Innovation: Expand beyond traditional noodle formats to include cups, bowls, and meal kits with accompanying sauces and vegetables",
+                      "Regional Cuisine Variations: Develop regionally-inspired flavors beyond standard offerings (Southern spices, Northeast-inspired, Coastal variants)",
+                      "Clean Label Focus: Prioritize formulations with minimal, recognizable ingredients to address growing 'kitchen ingredients only' preference"
+                    ]
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "matrix",
+                    "title": "Product Portfolio Strategy Matrix",
+                    "rows": ["Premium", "Mainstream", "Value"],
+                    "columns": ["Traditional", "Contemporary", "Innovative"],
+                    "data": [
+                      [
+                        "Organic, Single-Origin Millet",
+                        "Premium Flavor Blends",
+                        "Functional/Superfood Enhanced"
+                      ],
+                      [
+                        "Classic Flavors, Medium Millet %",
+                        "Modern Regional Cuisines",
+                        "Ready-to-Eat Convenient Formats"
+                      ],
+                      [
+                        "Basic Varieties, Lower Millet %",
+                        "Family Packs, Kid-Friendly",
+                        "Fusion Flavors for Mass Appeal"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Technology investment in processing techniques that better preserve millet's nutritional profile while improving texture and cooking qualities should be prioritized. Partnerships with food technology institutions can accelerate innovation in this area."
+                  }
+                ]
+              }
+            },
+            {
+              "key": "marketing-strategy",
+              "label": "Marketing Approach",
+              "icon": "📣",
+              "content": {
+                "title": "Marketing Strategy Recommendations",
+                "sourceInfo": "Brand Strategy Analysis",
+                "relatedTasks": ["ms-01", "ms-03"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Effective marketing for foxtail millet noodles requires a balanced approach that educates consumers about nutritional benefits while simultaneously addressing taste and convenience expectations. The following recommendations outline key elements of a comprehensive marketing strategy."
+                  },
+                  {
+                    "type": "list",
+                    "title": "Marketing Strategy Pillars:",
+                    "items": [
+                      "Educational Content Focus: Invest in content marketing that explains millet benefits, traditional significance, and nutritional advantages",
+                      "Transparency Initiative: Clearly communicate millet percentage, processing methods, and ingredient sourcing to build trust",
+                      "Lifestyle Integration: Position products within modern, health-conscious lifestyle contexts rather than purely as 'health foods'",
+                      "Sampling Programs: Prioritize trial generation through in-store sampling, subscription box partnerships, and first-purchase incentives",
+                      "Culinary Inspiration: Provide creative recipe ideas that showcase versatility beyond basic preparation methods"
+                    ]
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "funnel",
+                    "title": "Consumer Conversion Journey",
+                    "data": {
+                      "labels": ["Awareness", "Education", "Consideration", "Trial", "Repeat Purchase", "Advocacy"],
+                      "datasets": [
+                        {
+                          "data": [100, 70, 40, 25, 15, 8],
+                          "backgroundColor": "rgba(54, 162, 235, 0.5)",
+                          "borderColor": "#36A2EB"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "table",
+                    "title": "Channel Strategy Recommendations",
+                    "headers": ["Channel", "Primary Objective", "Key Tactics", "Success Metrics"],
+                    "rows": [
+                      ["Social Media", "Education & Engagement", "Educational videos, influencer partnerships", "Engagement rate, saved content"],
+                      ["SEO/Content", "Category Education", "Nutrition articles, recipe content", "Organic traffic, dwell time"],
+                      ["Retail Marketing", "Trial Generation", "In-store demos, shelf education", "Trial conversion rate"],
+                      ["Packaging", "Decision Support", "Clear benefits, usage instructions", "First-time purchase"],
+                      ["PR/Media", "Credibility Building", "Nutritionist endorsements, studies", "Share of voice, sentiment"]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "key": "distribution-strategy",
+              "label": "Distribution Optimization",
+              "icon": "🚚",
+              "content": {
+                "title": "Distribution Strategy Optimization",
+                "sourceInfo": "Channel Strategy Research",
+                "relatedTasks": ["ds-01", "ds-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Distribution strategy for foxtail millet noodles should be carefully calibrated to match product positioning, target consumer accessibility, and operational capabilities. The following recommendations address key considerations for optimizing distribution approach."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "bar",
+                    "title": "Channel Prioritization by Brand Positioning",
+                    "data": {
+                      "labels": ["Premium/Organic", "Mainstream Health", "Mass Market"],
+                      "datasets": [
+                        {
+                          "label": "E-commerce",
+                          "data": [9, 7, 5],
+                          "backgroundColor": "#FF6384"
+                        },
+                        {
+                          "label": "Modern Retail",
+                          "data": [8, 9, 6],
+                          "backgroundColor": "#36A2EB"
+                        },
+                        {
+                          "label": "Health Food Stores",
+                          "data": [10, 7, 3],
+                          "backgroundColor": "#FFCE56"
+                        },
+                        {
+                          "label": "General Trade",
+                          "data": [3, 6, 9],
+                          "backgroundColor": "#4BC0C0"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Distribution Strategy Recommendations:",
+                    "items": [
+                      "Phased Geographic Expansion: Focus initial distribution on top 8-10 metro markets before expanding to Tier 2 cities",
+                      "Channel Specialization: Consider developing channel-specific SKUs and packaging formats",
+                      "E-commerce Excellence: Prioritize digital shelf optimization, content quality, and fulfillment experience for online channels",
+                      "Retail Education: Invest in retail staff training and point-of-sale materials in physical stores",
+                      "Alternative Channels: Explore institutional sales (schools, corporate cafeterias) and health practitioner networks"
+                    ]
+                  },
+                  {
+                    "type": "heatmap",
+                    "title": "Geographic Market Prioritization",
+                    "regions": [
+                      {"name": "Tier 1 Focus (Immediate)", "cities": "Bangalore, Mumbai, Delhi NCR, Chennai, Hyderabad, Pune", "priority": "High"},
+                      {"name": "Tier 2 Focus (Year 1-2)", "cities": "Ahmedabad, Kolkata, Jaipur, Chandigarh, Kochi, Coimbatore", "priority": "Medium"},
+                      {"name": "Tier 3 Focus (Year 2-3)", "cities": "State capitals and cities >1M population", "priority": "Low"}
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "key": "pricing-positioning",
+              "label": "Pricing & Positioning",
+              "icon": "💲",
+              "content": {
+                "title": "Pricing and Positioning Strategy",
+                "sourceInfo": "CPG Pricing Analysis",
+                "relatedTasks": ["pp-01", "pp-02"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Effective pricing strategy for foxtail millet noodles must balance value perception, cost structures, competitive positioning, and target consumer willingness to pay. The following recommendations address key pricing and positioning considerations for market success."
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "line",
+                    "title": "Price-Value Perception by Consumer Segment",
+                    "data": {
+                      "labels": [40, 60, 80, 100, 120, 140],
+                      "datasets": [
+                        {
+                          "label": "Health Enthusiasts",
+                          "data": [3, 5, 7, 8, 7, 6],
+                          "borderColor": "#FF6384",
+                          "backgroundColor": "rgba(255, 99, 132, 0.1)"
+                        },
+                        {
+                          "label": "Urban Families",
+                          "data": [5, 8, 9, 7, 4, 2],
+                          "borderColor": "#36A2EB",
+                          "backgroundColor": "rgba(54, 162, 235, 0.1)"
+                        },
+                        {
+                          "label": "Value Seekers",
+                          "data": [8, 7, 5, 3, 1, 0],
+                          "borderColor": "#FFCE56",
+                          "backgroundColor": "rgba(255, 206, 86, 0.1)"
+                        }
+                      ]
+                    },
+                    "axisLabels": {
+                      "x": "Price Point (₹ per pack)",
+                      "y": "Perceived Value (1-10)"
+                    }
+                  },
+                  {
+                    "type": "list",
+                    "title": "Pricing Strategy Recommendations:",
+                    "items": [
+                      "Tiered Pricing Architecture: Develop clear good-better-best pricing tiers that correspond to product formulation differences",
+                      "Value Communication: Explicitly link price points to product attributes (organic, millet percentage, specialized health benefits)",
+                      "Pack Size Strategy: Offer trial sizes (40-50g) at accessible price points while optimizing margins on larger family packs",
+                      "Channel-Specific Pricing: Implement differential pricing across e-commerce, premium retail, and general trade",
+                      "Promotional Strategy: Focus on value-added promotions (bundling, gifts) rather than direct discounting to maintain premium positioning"
+                    ]
+                  },
+                  {
+                    "type": "table",
+                    "title": "Recommended Pricing Architecture",
+                    "headers": ["Product Tier", "Positioning", "Millet %", "Price Point (80g)", "Key Value Proposition"],
+                    "rows": [
+                      ["Premium", "Health Enthusiasts", "70%+", "₹90-120", "Maximum nutrition, often organic, specialized benefits"],
+                      ["Mid-tier", "Urban Families", "40-60%", "₹60-85", "Balance of nutrition and familiar taste, convenient format"],
+                      ["Entry", "Value Seekers", "25-35%", "₹40-55", "Introduction to millet benefits at accessible price"]
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "key": "business-model-innovation",
+              "label": "Business Model Innovation",
+              "icon": "💡",
+              "content": {
+                "title": "Business Model Innovation Opportunities",
+                "sourceInfo": "Industry Innovation Analysis",
+                "relatedTasks": ["bm-01", "bm-03"],
+                "sections": [
+                  {
+                    "type": "paragraph",
+                    "text": "Beyond traditional product and marketing innovations, the foxtail millet noodles category offers opportunities for business model innovation that could create competitive advantages and new value streams. The following recommendations outline potential directions for structural innovation."
+                  },
+                  {
+                    "type": "list",
+                    "title": "Business Model Innovation Opportunities:",
+                    "items": [
+                      "Vertical Integration: Backward integration through contract farming and dedicated processing facilities to improve quality control and margins",
+                      "Direct-to-Consumer Subscription: Develop curated millet product subscription boxes with educational content and recipe guidance",
+                      "Co-creation Platform: Establish consumer co-creation platforms for flavor development and product innovation",
+                      "Partnership Ecosystem: Form strategic partnerships with nutritionists, fitness platforms, and health-focused content creators",
+                      "Circular Economy Initiatives: Implement packaging take-back programs or biodegradable packaging innovations to strengthen sustainability positioning"
+                    ]
+                  },
+                  {
+                    "type": "chart",
+                    "chartType": "pyramid",
+                    "title": "Business Model Innovation Hierarchy",
+                    "data": {
+                      "labels": ["Production Innovation", "Product Innovation", "Channel Innovation", "Service Innovation", "Experience Innovation", "Business Model Innovation"],
+                      "datasets": [
+                        {
+                          "data": [6, 5, 4, 3, 2, 1],
+                          "backgroundColor": [
+                            "rgba(255, 99, 132, 0.7)",
+                            "rgba(54, 162, 235, 0.7)",
+                            "rgba(255, 206, 86, 0.7)",
+                            "rgba(75, 192, 192, 0.7)",
+                            "rgba(153, 102, 255, 0.7)",
+                            "rgba(255, 159, 64, 0.7)"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Technology-enabled innovations such as blockchain traceability for supply chain transparency, AI-driven personalization for subscription programs, and digital companion experiences through QR codes can further strengthen differentiation in this competitive market."
+                  }
+                ]
+              }
+            }
+          ],
+          "overview": {
+            "title": "Strategic Recommendations",
+            "sourceInfo": "Strategic Planning Framework",
+            "relatedTasks": ["sr-01", "sr-02"],
+            "sections": [
+              {
+                "type": "paragraph",
+                "text": "Success in the emerging foxtail millet noodles market requires a multifaceted strategic approach that addresses product development, marketing, distribution, pricing, and potential business model innovations. Companies that can effectively combine nutritional benefits with culinary appeal, while navigating supply chain challenges and building consumer awareness, will be best positioned to capitalize on this growth opportunity. The recommendations outlined in this section provide a framework for strategic decision-making across the key dimensions of market engagement."
+              },
+              {
+                "type": "chart",
+                "chartType": "radar",
+                "title": "Comprehensive Strategic Framework",
+                "data": {
+                  "labels": ["Product Innovation", "Consumer Education", "Supply Chain Excellence", "Distribution Optimization", "Price-Value Alignment", "Business Model Innovation"],
+                  "datasets": [
+                    {
+                      "label": "Strategic Priority (1-10)",
+                      "data": [9, 8, 7, 8, 7, 6],
+                      "backgroundColor": "rgba(54, 162, 235, 0.2)",
+                      "borderColor": "#36A2EB"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
